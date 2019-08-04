@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 int fun(int i, int j)
 {
